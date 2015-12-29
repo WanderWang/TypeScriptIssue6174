@@ -1,0 +1,13 @@
+{
+	"compilerOptions":{
+		"module":"commonjs",
+		"target":"es5",
+		"jsx": "react",
+		"rootDir":"src",
+		"outDir":"lib"
+	},
+	"exclude":[
+		"test",
+		"node_modules"
+	]
+}
